@@ -1,9 +1,9 @@
+import {Widget} from "./components/Widget";
+
 function App() {
   return (
-    <div>
-      <h1>Configurações iniciais</h1>
-    </div>
-  )
+    <Widget/>
+  );
 }
 
-export default App
+export default App;
